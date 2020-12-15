@@ -1,0 +1,12 @@
+{
+  "name": "reverse",
+  "displayName": "reverse",
+  "expo": {
+    "name": "reverse",
+    "slug": "reverse",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
